@@ -1,0 +1,13 @@
+	welcome GCC store
+
+Bill Number: 9905
+Customer Name: hjv
+Phone Number: 1651
+*************************************
+Product		QTY		Price
+*************************************
+ sugar		1		45
+=====================================
+Grocery Tax			Rs.4.5
+Total Bill :			Rs.49.5
+=====================================

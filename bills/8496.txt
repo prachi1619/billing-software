@@ -1,0 +1,13 @@
+	welcome GCC store
+
+Bill Number: 8496
+Customer Name: kbkhbk
+Phone Number: 1521515
+*************************************
+Product		QTY		Price
+*************************************
+ wheat		4		960
+=====================================
+Grocery Tax			Rs.96.0
+Total Bill :			Rs.1056.0
+=====================================
